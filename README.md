@@ -51,6 +51,17 @@ Kasutaja näeb oma viimast treeningut, nädalast treeningute arvu, aktiivseid ka
 **Sisselogimine ja registreerimine**
 *Kasutajakontod ja turvaline ligipääs.*
 
+## Andmebaas
+
+| Tabel | Milleks seda kasutatakse? |
+|---|---|
+| `users` | Kasutajate kontod |
+| `exercises` | Harjutuste andmed |
+| `workout_plans` | Kasutaja treeningkavad |
+| `plan_exercises` | Millised harjutused kuuluvad kavasse |
+| `workout_sessions` | Tegelikult tehtud treeningud |
+| `exercise_sets` | Raskused, kordused ja seeriad |
+| `body_metrics` | Kehakaalu ja muude mõõtmiste ajalugu |
 
 ## UI Examples
 
@@ -64,15 +75,3 @@ Kasutaja näeb oma viimast treeningut, nädalast treeningute arvu, aktiivseid ka
 <img width="1446" height="1097" alt="js1NyOa5dyuMKb5UNonv6pM3kTliEqDO1dKNDIaFY1dtSM8wkaWwqfD7vvYc8zhynl8NVTzEwEPvnzod4q1v3CQW3VqdAwGD9S8I0T9yFiMPALrfk2IgDVMsLw6jf4b3TdXcYpKrjr9jfX3RnVKNfzk4dquX2v82qEjqAAqalKlIKNM-z3gqyybMYlq8jJT8" src="https://github.com/user-attachments/assets/a2300561-75e1-461a-a641-675e52e8b0fe" />
 
 <img width="1376" height="768" alt="N_eRY0hGQbpejr1nPblYTuSHwMFSb-9707TdrOLB92ba_DHt7wHbvpjbiSD91Y0N8MkQuIFw49oKYWK1g8W6NpciFLXwV0mXY9b8nxT7gaE12bQUwY7AX9uSOkFsV13Z8JmjQ2Hh3ybOkDFCvQQCrUjtmOrGfCxy5sCn_NiCIqPQ8Ufp8pfXuM-4HnNOVk9v" src="https://github.com/user-attachments/assets/704e2082-5697-434b-9c7e-a17940440a11" />
-
-## Andmebaas
-
-| Tabel | Milleks seda kasutatakse? |
-|---|---|
-| `users` | Kasutajate kontod |
-| `exercises` | Harjutuste andmed |
-| `workout_plans` | Kasutaja treeningkavad |
-| `plan_exercises` | Millised harjutused kuuluvad kavasse |
-| `workout_sessions` | Tegelikult tehtud treeningud |
-| `exercise_sets` | Raskused, kordused ja seeriad |
-| `body_metrics` | Kehakaalu ja muude mõõtmiste ajalugu |
