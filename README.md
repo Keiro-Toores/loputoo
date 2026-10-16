@@ -38,7 +38,31 @@ Kasutaja näeb oma viimast treeningut, nädalast treeningute arvu, aktiivseid ka
 
 <img width="1376" height="768" alt="N_eRY0hGQbpejr1nPblYTuSHwMFSb-9707TdrOLB92ba_DHt7wHbvpjbiSD91Y0N8MkQuIFw49oKYWK1g8W6NpciFLXwV0mXY9b8nxT7gaE12bQUwY7AX9uSOkFsV13Z8JmjQ2Hh3ybOkDFCvQQCrUjtmOrGfCxy5sCn_NiCIqPQ8Ufp8pfXuM-4HnNOVk9v" src="https://github.com/user-attachments/assets/704e2082-5697-434b-9c7e-a17940440a11" />
 
+## Millised lehed tuleb valmis teha?
 
+01
+**Avaleht / Dashboard**
+*Treeningute kokkuvõte, statistika ja kiirlingid.*
+
+02
+**Treeningkavad**
+*Kavade loomine, muutmine ja kustutamine.*
+
+03
+**Harjutuste kogu**
+*Harjutuste nimed, lihasgrupid ja kirjeldused.*
+
+04
+**Treeningu vaade**
+*Seeriate, korduste ja raskuste sisestamine.*
+
+05
+**Progress**
+*Graafikud ja varasemate tulemuste ajalugu.*
+
+06
+**Sisselogimine ja registreerimine**
+*Kasutajakontod ja turvaline ligipääs.*
 
 Peamised Funktsioonid:
 1.
