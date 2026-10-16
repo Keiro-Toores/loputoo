@@ -1,3 +1,2 @@
 # Deadlines
-## Ärianalüüs
-23.10.25
+## Ärianalüüs - 23.10.25
