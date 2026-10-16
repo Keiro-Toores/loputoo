@@ -68,10 +68,10 @@ Kasutaja näeb oma viimast treeningut, nädalast treeningute arvu, aktiivseid ka
 
 | Tabel | Milleks seda kasutatakse? |
 |---|---|
-| 'users' | Kasutajate kontod |
-| 'exercises' | Harjutuste andmed |
-| 'workout_plans' | Kasutaja treeningkavad |
-| 'plan_exercises' | Millised harjutused kuuluvad kavasse |
-| 'workout_sessions' | Tegelikult tehtud treeningud |
-| 'exercise_sets' | Raskused, kordused ja seeriad |
-| 'body_metrics' | Kehakaalu ja muude mõõtmiste ajalugu |
+| `users` | Kasutajate kontod |
+| `exercises` | Harjutuste andmed |
+| `workout_plans` | Kasutaja treeningkavad |
+| `plan_exercises` | Millised harjutused kuuluvad kavasse |
+| `workout_sessions` | Tegelikult tehtud treeningud |
+| `exercise_sets` | Raskused, kordused ja seeriad |
+| `body_metrics` | Kehakaalu ja muude mõõtmiste ajalugu |
